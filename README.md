@@ -1,9 +1,9 @@
-**RESTful Service - A Spring application to manage Customers, Plans and Subscriptions without using Stripe&#39;s Dashboard**
+***RESTful Service - A Spring application to manage Customers, Plans and Subscriptions without using Stripe&#39;s Dashboard***
 
 This spring application uses stripe api which is a technology company. Its software allows individuals and businesses to receive payments over the Internet. Stripe provides APIs that web developers can use to integrate payment processing into their websites and mobile applications. I have used stripe api with spring application which gives the user capabilities of managing customer, plans and subscription. Each of these entities have their respective controllers and services.
 
 Following is an example of subscription plan that I used
-
+![](https://raw.githubusercontent.com/utsavrai/RESTful-Service--StripeAPI-integration-with-Spring-Application/master/stateMachine.PNG)
 **Customer Controller**
 
 ```java
